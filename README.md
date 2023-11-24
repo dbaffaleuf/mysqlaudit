@@ -5,13 +5,13 @@ iotop recommended
 
 # diagOS.bash
 Just run diagOS.bash, it will create a report file under the same directory
-[pre]
+<pre>
 $ ./diagOS.bash
-[/pre]
+</pre>
 
 # diagMySQL.sql
 Open a connection to MySQL using mysql CLI with super privileges, and source diagMySQL.sql file
-[pre]
+<pre>
 mysql> source diagMySQL.sql
-[/pre]
+</pre>
 
