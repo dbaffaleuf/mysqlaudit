@@ -11,7 +11,7 @@ $ ./diagOS.bash
 
 # diagMySQL.sql
 Open a connection to MySQL using mysql CLI with super privileges, and source diagMySQL.sql file
-<pre>
+
 mysql> source diagMySQL.sql
-</pre>
+
 
